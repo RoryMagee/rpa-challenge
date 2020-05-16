@@ -1,0 +1,23 @@
+{
+  "name": "rpa-challenge",
+  "version": "1.0.0",
+  "description": "To run:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoryMagee/rpa-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoryMagee/rpa-challenge/issues"
+  },
+  "homepage": "https://github.com/RoryMagee/rpa-challenge#readme",
+  "dependencies": {
+    "nightmare": "^3.0.2",
+    "opn": "^6.0.0"
+  }
+}
